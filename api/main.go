@@ -179,7 +179,7 @@ var modelMap = map[string]string{
     "claude-4-opus":           "claude_4_opus",
 	"claude-4-opus-think":     "claude_4_opus_thinking",
     "claude-4.6-opus":           "claude_4_6_opus",
-	"claude-4.5-opus-think":     "claude_4_5_opus_thinking",
+	"claude-4.6-opus-adaptive":     "claude_4_6_opus_adaptive",
 	"gemini-3-pro":	   "gemini_3_pro",
 	"o3":	   "openai_o3",
 	"o3-pro":	   "openai_o3_pro",
