@@ -174,7 +174,7 @@ var modelMap = map[string]string{
 	"claude-3-7-sonnet-think": "claude_3_7_sonnet_thinking",
     "claude-4-sonnet":         "claude_4_sonnet",
 	"claude-4-sonnet-think":   "claude_4_sonnet_thinking",
-    "claude-4.5-sonnet":         "claude_4_5_sonnet",
+    "claude-4.5-haiku":         "claude_4_5_haiku",
 	"claude-4.5-sonnet-think":   "claude_4_5_sonnet_thinking",
     "claude-4-opus":           "claude_4_opus",
 	"claude-4-opus-think":     "claude_4_opus_thinking",
